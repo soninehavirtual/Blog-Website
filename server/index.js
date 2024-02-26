@@ -5,7 +5,6 @@ import cors from 'cors';
 import bodyParser from 'body-parser';
 
 //components
-// import Connection from './database/db.js';
 import Router from './routes/route.js';
 
 
